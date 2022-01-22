@@ -13,8 +13,8 @@ const CONFIG = {
   // General
   name: 'Lokesh',
   imageBackground: false,
-  openInNewTab: true,
-  twelveHourFormat: false,
+  openInNewTab: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -42,7 +42,7 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/Loki-xyz',
     },
     {
       id: '2',
@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'Discord',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://discord.com/channels/@me',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -106,16 +106,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Twitter',
+        link: 'https://twitter.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Lokesh',
+        link: 'https://Lokesh.red/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Cloudflare',
+        link: 'https://dash.cloudflare.com',
       },
       {
         name: 'Telegram',
